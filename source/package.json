@@ -1,0 +1,21 @@
+{
+  "name": "esperimento1",
+  "version": "1.0.0",
+  "engines": {
+    "node": "11.15.0"
+  },
+  "description": "You have downloaded the complete p5.js library ZIP file, yay!",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Matteo Yon",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0",
+    "startaudiocontext": "^1.2.1",
+    "tone": "^14.7.39"
+  }
+}

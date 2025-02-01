@@ -1,0 +1,1 @@
+start cmd /k C:\Users\Matteo\Documents\ngrok-stable-windows-amd64\ngrok.exe http -hostname=my.ccontrol.eu.ngrok.io -region eu 8080
