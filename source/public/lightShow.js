@@ -20,7 +20,7 @@ function lightShow(lightScene){
 
             background(colorCode);
             break;
-
+            loopSample
         case 2://blackToWhite
             colorMode(RGB, 255);
             if (firstTime){
